@@ -1,0 +1,83 @@
+body {background-color: #e6e6e6;}
+
+#header {
+	background-color: #1F3D5C;
+	width: 97%;
+	height: 100px;
+	margin-bottom: 5px;
+	position: absolute;
+	margin-top: 25px;
+}
+
+#name {
+	font-size: 45px;
+	font-family: sans-serif;
+	color: #ffffff;
+	margin: 25px;
+	float: left;
+}
+
+#email {
+	float: right;
+	font-family: sans-serif;
+	color: #ffffff;
+	margin-right: 35px;
+	font-size: 30px;
+}
+
+#leftside {
+	width: 220px;
+	height: 1000px;
+	background-color: #999999;
+	margin-top: 15px;
+}
+
+#core {
+	width: 300px;
+	height: 220px;
+	position: absolute;
+	background-color: #cccccc;
+	top: 150px;
+	right: 5px;
+}
+
+#footer {
+	width: 100%;
+	height: 85px;
+	background-color: #E6E600;
+	bottom: 0;
+	position: fixed;
+}
+
+#address {
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;
+	color: #1a1a1a;
+}
+
+#linkedin {
+	position: fixed;
+	bottom: 5px;
+	right: 20px;
+	width: 100px;
+	height: 75px;
+}
+
+#list {
+	color: #1a1a1a;
+}
+
+#experience {
+	width: 400px;
+	height: 400px;
+	color: #1a1a1a;
+	position: absolute;
+	left: 275px;
+	top: 150px;
+}
+
+#coreheadline {
+	position: relative;
+	left: 25px;
+}
